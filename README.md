@@ -1,7 +1,4 @@
-# Sviridenko Maksim
-
 ## Профиль
-- Название рассылки: Sviridenko Maksim
 - Местоположение: Krasnoyarsk, Russia
 - Языки: Russian (главный), English (второстепенный), Chinese (второстепенный)
 - Часовой пояс: Asia/Krasnoyarsk
