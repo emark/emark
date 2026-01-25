@@ -12,7 +12,11 @@ DevOps: docker, kubernetes, helm, CI/CD
 - Интересы: Software development, Web Development, IoT, linux, Hiking, Reading
 
 ## Репутация в Интернете
-\[Профиль Gravatar\]: [gravatar.com/deerscented4c778deee1](https://gravatar.com/deerscented4c778deee1)
-\[GitHub\]: [github.com/emark](https://github.com/emark)
-\[GitLab\]: [gitlab.com/sviridenko.maxim](https://gitlab.com/sviridenko.maxim)
+\[Профиль Gravatar\]: [gravatar.com/deerscented4c778deee1](https://gravatar.com/deerscented4c778deee1)  
+\[GitHub\]: [github.com/emark](https://github.com/emark)  
+\[GitLab\]: [gitlab.com/sviridenko.maxim](https://gitlab.com/sviridenko.maxim)  
 \[LinkedIn\]: [www.linkedin.com/in/msviridenko](https://www.linkedin.com/in/msviridenko)
+
+## Обучение / Сертификаты
+\[Yandex Cloud\]: [Контейнеризация с Docker](https://emark.github.io/cert/yc-devops-container.pdf) - 12/2024  
+\[Rebrain\]: [DevOps-инженер](https://emark.github.io/cert/devops_rebrain.pdf) - 01/2026  
