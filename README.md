@@ -3,12 +3,12 @@
 - Языки: Russian (главный), English (второстепенный), Chinese (второстепенный)
 - Часовой пояс: Asia/Krasnoyarsk
 - Компания: Emark LLC
-- Название работы: IT\-Developer
+- Название работы: IT\-Developer, DevOps
 - Обо мне: Perl developer since 2006
 PL: perl, go, c/c\+\+
 OS: Ubuntu, Debian, FreeBSD
 Term: bash, sh, zsh
-DevOps: docker, kubernetes, helm, CI/CD
+DevOps: Docker, Kubernetes, Helm, Terraform, CI/CD
 - Интересы: Software development, Web Development, IoT, linux, Hiking, Reading
 
 ## Репутация в Интернете
