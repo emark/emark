@@ -5,7 +5,7 @@
 - Компания: Emark LLC
 - Название работы: IT\-Developer, DevOps
 - Обо мне: Perl developer since 2006
-  - PL: perl, go, c/c\+\+
+  - PL: perl, go, python, cpp
   - OS: Ubuntu, Debian, FreeBSD
   - Term: bash, sh, zsh
   - DevOps: Docker, Kubernetes, Helm, Terraform, CI/CD
