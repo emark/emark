@@ -12,7 +12,7 @@
 - Интересы: Software development, Web Development, IoT, linux, Hiking, Reading
 
 ## Репутация в Интернете
-\[LinkedIn\]: [www.linkedin.com/in/msviridenko](https://www.linkedin.com/in/msviridenko)
+\[LinkedIn\]: [www.linkedin.com/in/msviridenko](https://www.linkedin.com/in/msviridenko)  
 \[GitHub\]: [github.com/emark](https://github.com/emark)  
 \[GitLab\]: [gitlab.com/sviridenko.maxim](https://gitlab.com/sviridenko.maxim)  
 
