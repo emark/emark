@@ -17,6 +17,7 @@
 \[GitLab\]: [gitlab.com/sviridenko.maxim](https://gitlab.com/sviridenko.maxim)  
 
 ## Обучение / Сертификаты
-\[Yandex Cloud\]: [Контейнеризация с Docker](https://emark.github.io/cert/yc-devops-container.pdf) - 12/2024  
-\[Rebrain\]: [DevOps-инженер](https://emark.github.io/cert/devops_rebrain.pdf) - 01/2026  
+\[Yandex Cloud\]: [Docker container](https://emark.github.io/cert/yc-devops-container.pdf) - 12/2024  
+\[Rebrain\]: [DevOps](https://emark.github.io/cert/devops_rebrain.pdf) - 01/2026  
 \[Yandex Cloud\]: [IaC:Terraform](https://emark.github.io/cert/yc-devops-terra.pdf) - 02/2026  
+\[Rebrain\]: [Terraform](https://emark.github.io/cert/terraform_rebrain.pdf) - 04/2026  
